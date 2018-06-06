@@ -1,0 +1,6 @@
+1.par sau impar
+2.nr e divizibil cu 5 si 7
+3.aria in metri patrati
+4.al 3-lea nr e sapte
+5.al treilea nr in binar
+6.coordonate cerc
